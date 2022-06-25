@@ -29,7 +29,7 @@ Bisogna perciò avere chiaro fin da subito che la carriera da manager è complet
 Anzi, spesso all’interno delle aziende incontriamo profile che sono più in alto rispetto ad alcuni manager. Come può essere il caso di un Head of Engineering e un Associate Engineering Manager, approfondirò questo argomento in un altro articolo.
 
 ## La giusta scelta 
-Abbiamo dunque chiarito che si tratto di un salto di carriera, adesso può quindi sorgerci il dubbio se fare questo salto o rimanere per crescere dove siamo arrivati. 
+Abbiamo dunque chiarito che si tratti di un salto di carriera, adesso può quindi sorgerci il dubbio se fare questo salto o rimanere per crescere dove siamo arrivati. 
 
 Le differenze tra i due incarichi sono molteplici, voglio parlare di quelle che per me sono le più importanti e forse alcune non sono molto evidenti a occhi inesperti. 
 
