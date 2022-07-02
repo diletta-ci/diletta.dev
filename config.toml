@@ -16,3 +16,8 @@ theme = "hugo-PaperMod-master"
 
 [Permalinks]
     post = "/:filename/"
+
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
