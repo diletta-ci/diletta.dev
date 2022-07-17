@@ -1,14 +1,14 @@
 {{ define "main" }}
 <main>
     <article>
-    <header>
-        <h1>{{ .Title }}</h1>
-    </header>
-    <nav id="TableOfContents">
-        <ul>
-            {{ .TableOfContents }}
-        </ul>
-    </nav>
+        <header>
+            <h1>{{ .Title }}</h1>
+        </header>
+        <nav id="TableOfContents">
+            <ul>
+                {{ .TableOfContents }}
+            </ul>
+        </nav>
         {{ .Content }}
     </article>
     <aside>
