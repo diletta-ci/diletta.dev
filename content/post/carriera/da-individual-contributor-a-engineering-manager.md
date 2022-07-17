@@ -23,8 +23,6 @@ In questo modo però sia l’azienda che il professionista ci rimettevano. Infat
 Per fortuna le cose sono cambiate, é cambiato il concetto di leadership e la carriera come manager é diventata un cammino separato da quello dell’ingegnere del software. 
 Il background tecnico è sempre utile e può servire nel ruolo di manager, ma non é la skill principale per diventare un buon leader e quindi Engineering Manager.
 
-![](&&&SFLOCALFILEPATH&&&bear_sketch@3x.png)
-
 Bisogna perciò avere chiaro fin da subito che la carriera da manager è completamente separata da quella dello sviluppatore. Sono due cammini diversi, con diversi obiettivi e una crescita diversa. Uno non è la continuazione dell’altro. 
 Anzi, spesso all’interno delle aziende incontriamo profile che sono più in alto rispetto ad alcuni manager. Come può essere il caso di un Head of Engineering e un Associate Engineering Manager, approfondirò questo argomento in un altro articolo.
 
