@@ -4,7 +4,7 @@ title: "Da Individual Contributor a Engineering Manager "
 date: "2022-06-24"
 description: "Come si diventa manager"
 tags: ["carriera"]
-ShowToc: false
+ShowToc: true
 ShowBreadCrumbs: false
 ---
 
