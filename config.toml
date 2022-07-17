@@ -21,3 +21,6 @@ theme = "hugo-PaperMod-master"
   changefreq = 'monthly'
   filename = 'sitemap.xml'
   priority = 0.5
+
+[minify]
+  disableJSON = true
