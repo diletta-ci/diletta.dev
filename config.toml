@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://giodi.dev/"
 title = "Giodi website"
 theme = "hugo-PaperMod-master"
 
