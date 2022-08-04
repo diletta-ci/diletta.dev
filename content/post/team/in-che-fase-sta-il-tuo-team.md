@@ -15,14 +15,6 @@ Bruce Tuckman, psicologo ricercatore statunitense, propose nel 1995 un modello c
 
 A continuazione puoi trovare le quattro fasi identificate da Tuckman, come si applicano all’interno dell’industria del software, come riconoscerle e come passare alla fase successiva.
 
-## Indice
-1. Cosa sono le fasi, modello di Tuckman
-2. Forming
-3. Storming
-4. Norming
-5. Performing
-6. Conclusioni
-
 ## Modello di Tuckman
 _Forming, storming, norming, performing._ 
 **Formazione, tempesta, regolazione, performante.**
@@ -36,21 +28,21 @@ Attenzione però perché le fasi non sono lineari, ma circolari. Perciò, come t
 Vediamole nel dettaglio.
 
 ## Le quattro fasi
-### /Forming/
+### _Forming_
 La fase di formazione del team. Magari ha già un nome e una missione, ma ancora non sono chiare le regole del gruppo. 
 Questa é una fase iniziale e naturale quando si forma un nuovo gruppo, ma che può ripetersi nuovamente quando un nuovo componente entra nel team o una persona che ci lavorava lascia il gruppo per diverse ragioni. O anche quando viene cambiata la visione e la missione dello stesso team di lavoro.
 
 Questa é una fase importante, d’obbligo passaggio, ma della quale non bisogna avere paura. In questa fase di solito l’eccitazione é palpabile nell’aria, c’è un progetto nuovo da affrontare e tutti sono curiosi di vedere cosa succederà. 
 Il team inizia a conoscersi e crea i primi legami fino a passare alla fase successiva.
 
-### /Storming/
+### _Storming_
 La fase di storming é quando iniziano ad esserci i primi conflitti. Una fase di confusione in cui vengono fuori le opinioni di ognuno, ma é necessaria per passare a quella successiva (_norming_) dove finalmente vengono definite le regole.
 
-### /Norming/
+### _Norming_
 Questa é la fase che finalmente permetterà al team di definire la regole, gli accordi per lavorare bene insieme. Ogni individuo nel team ha esperienze lavorative e forme di pensare diverse. 
 Non siamo tutti uguali, ma è proprio questa diversità che arricchisce il gruppo. Permette a tutti di portare esempi diversi che permetteranno al gruppo di crescere e trovarne di nuovi.
 
-### /Performing/
+### _Performing_
 Una volta definite le regole del gioco, é il momento di produrre. 
 L’obiettivo finale di qualsiasi team, in qualsiasi compagnia, di qualsiasi persona dentro l’impresa, di qualsiasi passo compiamo deve andare verso la produttività. Il fine ultimo. Ma di questo parlerò in un altro articolo più approfonditamente.
 
