@@ -1,6 +1,6 @@
 baseurl = "https://giodi.dev/"
 title = "Giodi website"
-theme = "hugo-PaperMod-master"
+theme = "PaperMod"
 
 [Params]
     mainSections = ["post"]
