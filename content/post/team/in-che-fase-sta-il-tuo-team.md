@@ -1,11 +1,8 @@
 ---
-author: "Diletta"
 title: "In che fase sta il tuo team?"
 date: "2022-07-24"
 description: "Le fasi inevitabili per la crescita di qualsiasi team"
 tags: ["team"]
-ShowToc: false
-ShowBreadCrumbs: false
 ---
 
 Se guardi indietro nella storia del tuo team sicuramente noterai che ci sono stati momenti in cui c’erano molti problemi e altri in cui stavate portando a casa molte vittorie.

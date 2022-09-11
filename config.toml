@@ -1,18 +1,41 @@
 baseurl = "https://giodi.dev/"
 title = "Giodi website"
 theme = "PaperMod"
+defaultContentLanguage = "it"
 
 [Params]
     mainSections = ["post"]
     intro = true
+    title = "Giodi website"
+    author = "Diletta Calà Impirotta | Giodi"
     headline = "Giodi - Diletta Calà Impirotta website"
     description = "Blog italiano sull'industria del software"
+    keywords = ["Blog", "Software Engineering Manager"]
     github = "https://github.com/giodi-ci"
     twitter = "https://twitter.com/GioDi_CI"
     email = "giodidev@gmail.com"
     opengraph = true
     shareTwitter = true
-    dateFormat = "Mon, Jan 2, 2006"
+    DateFormat = "January 2, 2006"
+    defaultTheme = "dark"
+    
+    ShowToc = true
+    TocOpen = false
+    UseHugoToc = true
+
+    ShowReadingTime = true
+    ShowWordCount = false
+    ShowShareButtons = false
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = false
+    ShowCodeCopyButtons = false
+
+    ShowRssButtonInSectionTermList = false
+    disableSpecial1stPost = false
+    disableScrollToTop = false
+    comments = false
+    hidemeta = false
+    hideSummary = false
 
 [Permalinks]
     post = "/:filename/"

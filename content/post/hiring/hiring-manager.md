@@ -1,23 +1,13 @@
 ---
-author: "Diletta"
 title: "Hiring Manager"
 date: "2022-08-24"
 description: "Chi è e cosa fa un hiring manager"
 tags: ["hiring"]
-ShowToc: false
-ShowBreadCrumbs: false
 ---
 
 In qualità di **Engineering Manager** uno dei compiti che capita di sostenere è quello di **_Hiring Manager_**, gestione dell’assunzioni. 
 
 In questo articolo voglio presentare il ruolo di questa figura all’interno dell’azienda, l’obiettivo e il processo di hiring.
-
-## Indice
-1. Hiring Manager in pratica
-2. Recruiting (a volte)
-3. Individuare la_e posizione_i aperta/e e scrivere la JD
-4. Seguire il candidato durante il processo
-5. Definire il processo
 
 ## Hiring manager in pratica
 Quando l’azienda apre una posizione o entra in una fase di assunzione massiva nel dipartimento di ingegneria sono gli Engineering Manager, insieme al dipartimento di risorse umane (Human Resources, HR) ad assumere il controllo e la gestione del processo di assunzione.

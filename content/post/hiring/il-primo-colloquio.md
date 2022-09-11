@@ -1,11 +1,8 @@
 ---
-author: "Diletta"
 title: "Hiring Manager, il primo colloquio"
 date: "2022-09-24"
 description: "Il primo colloquio è fondamentale tanto per il candidato quanto per te. In questo articolo evidenzio obiettivi e consigli di questa prima fase."
 tags: ["hiring"]
-ShowToc: false
-ShowBreadCrumbs: false
 ---
 
 Come Engineering Manager dovrai fare fronte anche a colloqui ed assunzioni ricoprendo il ruolo di Hiring manager (se vuoi sapere di più su questa figura ne ho parlato [qui](https://giodi.dev/hiring-manager)).
