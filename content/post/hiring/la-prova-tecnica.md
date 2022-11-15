@@ -126,7 +126,7 @@ Un aspetto sicuramente di cui tenere conto al momento della decisione.
 Un’aspetto importante è aiutare ad organizzare il team tecnico in modo da avere profili diversi al momento di valutare una persona, ma con degli standard ben precisi e identificati all’interno del dipartimento di ingegneria.
 In modo tale da potersi assicurare un misto di profili nel team, ma con un livello e un’orientazione chiara e uniforme.
 
-Riguardo la scelta sulla modalità, posso dire di aver avuto modo di usare le tre modalità descritte sopra e dovessi scegliere la mia preferita probabilmente propenderei sul _Live conding session_, per un motivo molto semplice: la velocità.
+Riguardo la scelta sulla modalità, posso dire di aver avuto modo di usare le tre modalità descritte sopra e dovessi scegliere la mia preferita probabilmente propenderei sul _Live coding session_, per un motivo molto semplice: la velocità.
 
 Ma so anche che non è la soluzione perfetta per tutti. Ci sono persone che sottoposte a una pressione di questo genere, anche se molto valide, potrebbero essere scartate perché magari entrano nel pallone.
 Potreste obiettare che fa parte del gioco anche valutare come una persona lavora sotto pressione, ma io credo che dipenda dal ruolo che si sta cercando di coprire e non sempre è utile.
