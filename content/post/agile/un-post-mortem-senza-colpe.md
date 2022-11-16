@@ -2,7 +2,6 @@
 title: "Un Post Mortem Senza Colpe"
 description: "Cos'è un post-mortem e come facilitarlo perchè sia effettivo? Alla fine di un grande progetto o di una fase in concreto a volte è importante fermarsi a riflettere."
 date: 2022-11-24
-draft: true
 ---
 
 Alla fine di un grande progetto o di una fase in concreto a volte è importante fermarsi a riflettere. 
