@@ -27,7 +27,7 @@ In questo caso gli obiettivi fondamentali sono due:
 * Presentare l’azienda
 * Decidere se fermare il candidato o proseguire al prossimo colloquio
 
-## Presentazione dell’azienda, perché è importante
+### Presentazione dell’azienda, perché è importante
 Come dicevo, il mercato della industria del software è stato pero molti anni fortemente attivo. 
 Con questo voglio dire che l’offerta era molto alta rispetto alla domanda. 
 Al punto che la situazione si è completamente ribaltata, mettendo i candidati in una posizione quasi di vantaggio. Chiunque con un profilo su LinkedIn di software developer ti può dire come negli ultimi cinque, dieci anni abbia ricevuto offerte di contatto da /recruiter/ ogni settimana, anche più volte a settimana.
@@ -50,7 +50,7 @@ I punti fondamentali da coprire sono quindi:
 
 Con questi punti sono sicura che coprirai la maggior parte dei dubbi che possono nascere durante o dopo il primo colloquio. Così il candidato avrà anche una chiara visione di cosa aspettarsi e di cosa si aspetta la tua azienda da lui/lei.
 
-## Conoscere il candidato
+### Conoscere il candidato
 Secondo obiettivo, altrettanto importante, è conoscere il/la candidato/a.
 Non darò consigli su come condurre il colloquio, perché penso che ognuno crei il proprio stile con l’esperienza. 
 
@@ -68,7 +68,8 @@ Quindi domande su qualità, migliori pratiche (*best practices*), o architettura
 
 Altri aspetti interessanti da coprire possono essere quelli orientati maggiormente al prodotto, al business, alla performance o al come seguire una funzionalità nuova in produzione (*follow-up on production*).
 
-## Conclusione
+- - - -
+
 Con questi due principali obiettivi da raggiungere durante il primo filtro sono sicura che avrai già una chiara idea se la persona deve o meno passare alla fase due.
 
 Se hai dubbi o non sei convinto del tutto usa la formula magica e poniti questa domanda: dovesse iniziare a lavorare con me domani, lo vorrei al mio fianco? Mi fiderei ad affidargli dei compiti?

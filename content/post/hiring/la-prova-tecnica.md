@@ -1,12 +1,12 @@
 ---
-title: "La Prova Tecnica"
+title: "Hiring: la prova tecnica"
 date: 2022-10-24
 description: "Come e perché valutare un candidato a livello tecnico? Cosa ci aspettiamo? Quali sono le parti fondamentali da tenere conto?"
 tags: ["hiring"]
 ---
 Passato il primo screening, di cui ho parlato in [un articolo precedente](https://giodi.dev/il-primo-colloquio), è il momento di capire se le capacità, o _skills_, tecniche del candidato/a sono per valide per la posizione aperta.
 
-# Hiring: la prova tecnica
+## Un passaggio obbligato, la prova tecnica
 
 Il modo di valutare tecnicamente un _software engineer_ è in continua evoluzione.
 Fino a che qualche anno fa, scorso decennio, la prova tecnica non faceva parte del processo di selezione. Semplicemente si valutava il candidato sulla base della sua esperienza e curriculum.
@@ -19,7 +19,7 @@ Nel paragrafo successivo descriverò le diverse modalità con cui ho lavorato, i
 
 Ma prima di questo voglio spendere due parole sul perché è così importante questa fase.
 
-## Perché è importante
+### Perché è importante
 Mi piace sempre ricordare che il processo di selezione è binario, a doppia direzione. 
 La possibile futura collega deve convincere noi e il nostro team, tanto come noi dobbiamo convincere lei.
 
@@ -32,7 +32,7 @@ Vedi quindi quanto è importante questa fase, ma anche altrettanto importante ri
 
 - - - -
 
-## Valutazione tecnica, come affrontarla?
+### Valutazione tecnica, come affrontarla?
 Nella mia esperienza ho visto l’evolversi, anche all’interno della stessa ditta, di modi di valutare tecnicamente diversi. 
 
 Esiste la tipologia perfetta che ti farà selezionare il candidato perfetto? No.
@@ -45,28 +45,28 @@ Questo accade perché è impossibile conoscere una persona, tanto a livello tecn
 
 Detto ciò, di seguito le diverse modalità che ho usato, i pro ed i contro di ognuna.
 
-## Modalità #1: _Home tech challenge_, prova tecnica a casa
+#### Modalità #1: _Home tech challenge_, prova tecnica a casa
 La prova tecnica a casa consiste nel dare al candidato un esercizio da svolgere in un tempo definito, per esempio una settimana, ma nei momenti che lui/lei preferisce. 
 
 Una volta svolto l’esercizio e consegnato, un team di due programmatori dentro la nostra azienda ha la possibilità di valutare il risultato e decidere se proseguire al passo successivo, il colloquio tecnico, oppure rifiutare il candidato.
 
-### Passaggi:
+##### Passaggi:
 * Si consegna al candidato l’esercizio da svolgere e il materiale necessario per farlo.
 * Si attende il tempo previsto.
 * Si passa la prova al team tecnico.
 * Nel caso di valutazione positiva, si passa al colloquio tecnico.
 * Decisione finale del team tecnico se andare oltre o no.
 
-### PRO:
+###### PRO:
 * Il candidato ha il tempo di fare la prova nei tempi e nelle modalità che preferisce. Bisogna tenere conto che la maggioranza dei candidati già lavora, quindi è il tempo che dedicano alla prova è ritagliato da quello personale.
 * Dando il tempo necessario, la prova sarà lavorata bene, nei dettagli. In quanto svolta a casa senza pressione.
 
-### CONTRO:
+###### CONTRO:
 * Tempistiche: i tempi sono abbastanza lunghi se contiamo quelli per la prova a casa, quelli per correggerla e poi l’ora del colloquio tecnico finale.
 * Il candidato potrebbe usare l’aiuto di terzi per svolgere la prova, quindi il risultato potrebbe essere falsato.
 
 
-## Modalità #2: _Pet project_
+#### Modalità #2: _Pet project_
 Un _pet project_, tradotto letteralmente progetto animale domestico, è un progetto personale, a cui tieni molto, così come vuoi bene al tuo cane.
 
 In italiano forse potremmo tradurlo come il tuo **cavallo di battaglia**. Quel progetto per cui ti senti orgogliosa di condividere perché pensi che rispecchi il tuo stile di programmazione, hai messo dentro tutte le buone pratiche, _best practices_, che conosci e ne vai molto fiera.
@@ -77,22 +77,22 @@ Questa tipologia sta andando sempre più di moda, in quanto l’offerta di merca
 
 Dopo aver valutato il _pet project_ si passa ad un colloquio tecnico, per cui il team tecnico ha modo di conoscere il candidato e fare le relative domande per approfondire il lavoro del progetto o anche esterne ad esso.
 
-### Passaggi: 
+##### Passaggi: 
 * Si chiede al candidato se ha un _pet project_ da presentare.
 * Si passa al team tecnico che valuterà se passare alla fase successiva.
 * Colloquio tecnico in cui si parla del progetto e altre domande tecniche.
 * Decisione del team tecnico se andare oltre o no.
 
-### PRO:
+###### PRO:
 * Veloce, spesso è open source e basta condividere il link di GitHub.
 * Ha dentro il meglio del candidato, più possibilità di brillare.
 
-### CONTRO:
+###### CONTRO:
 * Non c’è un modo totalmente certo di sapere se il progetto è stato collaborativo o totalmente costruito dal propietario.
 * Datato: pochi sono i candidati che hanno progetti mantenuti aggiornati, rischia di essere un po' vecchio stampo.
 * Può richiedere più tempo al team tecnico: senza sapere esattamente cosa guardare, un progetto che non si conosce può richiedere più tempo per essere valutato.
 
-## Modalità #3: _Live coding session_, programmazione in diretta
+#### Modalità #3: _Live coding session_, programmazione in diretta
 Consiste in una sessione di programmazione in diretta, dove il candidato condivide il suo schermo, se il colloquio è svolto in videochiamata, e risolve l’esercizio in diretta con l’intervistatore.
 O meglio gli intervistatori, sempre meglio avere due punti di vista nel caso prove tecniche o simili.
 
@@ -106,23 +106,22 @@ L’obiettivo non è risolvere l’esercizio proposto nel suo complesso, ma vede
 Da non sottovalutare la pressione a cui è sottoposto il candidato. Non è facile per tutti condividere il proprio schermo o comunque programmare di fronte ad altre persone, soprattutto se quelle persone devono decidere le sorti del colloquio.
 Un aspetto sicuramente di cui tenere conto al momento della decisione.
 
-### Passaggi:
+##### Passaggi:
 * Viene proposto al candidato una sessione di _live coding_.
 * Si organizza la sessione, in genere bastano un paio d’ore, con il candidato e il team tecnico dell’azienda.
 * Decisione del team tecnico se andare oltre o no.
 
-### PRO:
+###### PRO:
 * Tempistiche: il tempo della durate del colloquio, il team decise già se proseguire o meno.
 * Il candidato ha un’idea molto chiara di cosa ci si aspetta da lui/lei.
 * Il team si fa un’idea abbastanza veritiera di come sarebbe lavorare con il candidato.
 
-### CONTRO:
+###### CONTRO:
 * Il candidato è messo sotto molta più pressione, rispetto alla prova a casa. Questo può portare a risultati falsati, nel bene e nel male.
 * Se il candidato è molto al di sotto delle aspettative è una notevole perdita di tempo per tutti. Sta al team tecnico saper troncare il colloquio prima e non perdere ulteriore tempo se la decisione è chiara dall'inizio.
 
 
 - - - -
-## Conclusione
 Un’aspetto importante è aiutare ad organizzare il team tecnico in modo da avere profili diversi al momento di valutare una persona, ma con degli standard ben precisi e identificati all’interno del dipartimento di ingegneria.
 In modo tale da potersi assicurare un misto di profili nel team, ma con un livello e un’orientazione chiara e uniforme.
 

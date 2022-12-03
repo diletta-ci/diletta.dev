@@ -13,7 +13,7 @@ In questo articolo descriverò brevemente l’ultima riunione di questo processo
 
 ---
 
-# Il processo di assunzione e la riunione finale, il debrief
+## Il processo di assunzione e la riunione finale, il debrief
 Immagino i più rodati nell’ambiente stiamo già pensando: <<oh no, l’ennesima riunione…>>.
 Ma vi assicuro che questa è una della più importanti. Inoltre ha di positivo che dura poco, non più di quindici minuti. 
 
@@ -21,10 +21,10 @@ Quando si arriva alla fine di questo processo di colloqui vuol dire che la candi
 
 Quest’ultima riunione, o _debrief_, è previa al lancio dell’offerta o al rifiuto finale della candidata. Perché come vedremo, anche se ha passato tutti i colloqui, in questa fase finale possono venire fuori tanti dettagli per cui potremmo anche decidere di scartare definitamente la candidata.
 
-## Chi partecipa
+### Chi partecipa
 A questa fase finale devono poter partecipare tutte le persone che hanno tenuto parte al processo. Da Risorse Umane per la prima fase di _screening_ ai profili tecnici. 
 
-## Il verdetto nell’arena
+### Il verdetto nell’arena
 Come dicevo questa riunione è molto veloce. La tecnica che si usa per decidere, può sembrare barbara, ma è molto efficace: ci si prepara tutto col pugno alzato e si conta fino a tre. Al tre, tutti devono girare il pollice in su o in giù, a seconda se si vuole o no che il candidato diventi un collega.
 
 _Alla romana_, per così dire, ma in pochi secondi si vede in un’occhiata se c’è consenso o no.
@@ -33,17 +33,17 @@ Dopodiché si passa alla spiegazione di ognuno. Tutti devono avere modo di parla
 
 Regola fondamentale che riprenderò più avanti nell’articolo: se non c’è unanimità l’offerta non si lancia e viene scartato il candidato. Tutti, ma tutti, devono essere d’accordo.
 
-## Scopo
+### Scopo
 Lo scopo della riunione in realtà non è solo uno, ma molteplici. Io ne ho individuati almeno tre.
 
-### Ascoltare l’opinione di tutti
+#### Ascoltare l’opinione di tutti
 Per quanto nel software di gestione delle candidature o attraverso l’app di messaggistica dell’azienda (come Slack), si possa leggere i pareri di tutti e il _feedback_ lasciato dopo i colloqui, è bene sentire, ascoltare attivamente, cosa pensano del candidato le persone che lo hanno conosciuto.
 
 L’ho già detto in altri articoli, in un’ora di colloquio possiamo farci un’idea della persona, ma non saremo mai 100% sicuri che andrà tutto bene. Inoltre ci sono aspetti, più legati a _soft skills_, che sono molti difficili da individuare.
 
 Ascoltare di prima mano l’opinione di tutti è importante per farsi un’idea di quali potrebbero essere i problemi o i rischi nell’assunzione. 
  
-### Capire il livello di esperienza per regolare l’offerta
+#### Capire il livello di esperienza per regolare l’offerta
 Questo passaggio è importante soprattutto se siamo in un momento di grande assunzione. 
 
 Quando dobbiamo assumere tante persone per la stessa posizione, ad esempio Frontend Engineer, se è ovviamente previsto, non tutti i candidati saranno allo stesso livello. All’interno della stessa posizione potremmo decidere di avere persone Senior come persone con meno esperienza.
@@ -54,7 +54,7 @@ Come scrivevo sopra, anche se si ha già un’idea di livello del candidato, è 
 
 Inoltre dalla decisione del livello di esperienza può essere che si riesca a vincere l’unanimità tanto voluta, cioè che alcuni pollici inizialmente in giù si alzino a favore di una posizione più bassa, ma con potenzialità di crescita.
 
-### Presa di responsabilità, _accountability_
+#### Presa di responsabilità, _accountability_
 Ultimo scopo, ma non per importanza, di questa riunione è la presa di responsabilità.
 
 Quando chiediamo di alzare il pollici, di fatto stiamo trasmettendo un senso di responsabilità. Tutti in questa stanza, virtuale o no, stiamo dicendo che questa persona sarà il nostro nuovo futuro collega. Lo vogliamo a bordo, a lavorare con noi fianco fianco tutti i giorni.
@@ -64,7 +64,6 @@ Stiamo di fatto firmando un accordo, una speranza che questo processo, che finir
 Se qualcosa andrà storto, sarà responsabilità di tutti i partecipanti del processo. Così che tutti risponderemo dell’errore commesso e impareremo da esso, magari in un [post mortem](https://giodi.dev/un-post-mortem-senza-colpe/), perché no!
 
 - - - -
-### Conclusioni
 Ed ecco che siamo arrivati alla fine di questo lungo processo di colloqui.
 Non ci resta che parlare con risorse umane per accordare un’offerta, lanciarla al candidato e aspettare la risposta.
 
