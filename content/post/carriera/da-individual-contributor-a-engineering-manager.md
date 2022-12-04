@@ -1,13 +1,16 @@
 ---
-author: "Diletta"
-title: "Da Individual Contributor a Engineering Manager "
-date: "2022-06-24"
+title: "Da Individual Contributor a Engineering Manager"
 description: "Come si diventa manager"
+date: 2022-06-24
 tags: ["carriera"]
-ShowToc: false
-ShowBreadCrumbs: false
+cover:
+    image: "/explosion.jpg"
+    alt: "Esplosione"
+    caption: "Esplosione di carriera"
+    relative: false
+cascade:
+    banner: "/explosion.jpg"
 ---
-
 La figura del _leader_ e del manager è cambiata molto nel corso degli ultimi anni. Non esiste più il passaggio automatico di carriera da senior software engineer a manager. 
 Quindi come facciamo a capire se è qualcosa che può interessarci? 
 In questo articolo troverai alcuni spunti per capire quando è il momento giusto e quali sono le principali differenze.
