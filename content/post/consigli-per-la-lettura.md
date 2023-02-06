@@ -33,18 +33,18 @@ Buona lettura!
 - **Leaders eat last, _Simon Sinek_:** Simon é un mentore e una fonte di saggezza quando si tratta di leadership e di capire le persone. Sto scrivendo la recensione di questo libro, lasceró presto il link qui. `leadership`
 - **Fascismo eterno, _Umberto Eco_:** a volte ci puó sembrare lontano, ma purtroppo è piú che mai attuale. `storico, filosofia`
 - **Sin noticias de Gurb, _Eduardo Mendoza_:** se conosci Barcellona, questo strano alieno e il modo di vedere il mondo ti piaceranno. `narrativa`
-- **Sapiens, Vol 2, _Yuval Noah Harari_:** secondo volume a fumetto. La prima parte aveva concetti piú trasformatori, ma per completezza é giusto finirlo.  `filosofia, fumetto`
+- **Sapiens, Vol 2, _Yuval Noah Harari_:** secondo volume a fumetto. La prima parte aveva concetti piú trasformatori, ma per completezza é giusto finirlo. `filosofia, fumetto`
 - **Io e il Mostro, _Roberta Guzzardi_:** ognuno ha il proprio ¨mostro¨ interno, a volte è solo questione di accettarlo. `narrativa, fumetto`
 - **L’era del cuore, _Luca Mazzucchelli_:** semplice e intutivo ti aiuta a capire come l'empatia sia utile in ogni aspetto della vita. `psicologia, sviluppo personale`
 - **Fattore 1%, _Luca Mazzucchelli_:** se vuoi cambiare le tue abitudini, inizia da piccoli passi. Inizia a cambiare l'1%. `psicologia, sviluppo personale`
 - **Specchio delle mie brame, _Maura Gancitano_:** cos'è la bellezza se non una °gabbia dorata°? `filosofia, sviluppo personale`
-- **La societá della performance, _Maura Gancitano_:** anilisi del mondo moderno dove siamo sempre in vetrina attraverso i social network e l'internet e su come influisce sulla nostra identità.  `filosofia, sviluppo personale`
-- **The miracle morning, _Hal Elrod_:** ormai l'abbiamo letto tutti, dovevo farlo pure io. Sinceramente mi aspettavo di più. Non di un miracolo, però... `sviluppo personale`
+- **La societá della performance, _Maura Gancitano_:** anilisi del mondo moderno dove siamo sempre in vetrina attraverso i social network e l'internet e su come questo influisca sulla nostra identità.  `filosofia, sviluppo personale`
+- **The miracle morning, _Hal Elrod_:** ormai l'abbiamo letto tutti, dovevo farlo pure io. Sinceramente mi aspettavo di più. Non dico un miracolo, però... `sviluppo personale`
 
 
 ## Lista dei libri letti nel 2021
 - - -
-- **Comunicación eficaz, _non so_:** come funziona la comunicazione, i tipi e come migiorarla. `comunicazione`
+- **Comunicación eficaz, _non so_:** come funziona la comunicazione e come migiorarla. `comunicazione`
 - **Ego is the enemy, _Ryan Holiday_:** stoicismo intrecciato con come migliorare la propria vita e cosa aspettarsi da essa. `sviluppo personale, filosofia`
 - **The subtle art of not giving a fuck, _ff_:** un classico, punto di vista interessante che prima o poi dovremmo mettere in pratica tutti, almeno in parte. `sviluppo personale`
 - **Sapiens, Vol 1, _Yuval Noah Harari_:** la storia dell'essere umano e di come nascono concetti come religione e denaro che sono la base della nostra società. Sorprendente. `filosofia, storia`
