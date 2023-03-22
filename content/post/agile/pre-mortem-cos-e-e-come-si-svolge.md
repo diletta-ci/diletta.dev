@@ -5,7 +5,7 @@ date: 2023-01-24
 tags: ["agile"]
 ---
 
-In un articolo precedente ho già parlato del [post mortem](https://giodi.dev/un-post-mortem-senza-colpe/), di come assicurarsi che sia senza colpe e di quali siano gli obiettivi.
+In un articolo precedente ho già parlato del [post mortem](../un-post-mortem-senza-colpe/), di come assicurarsi che sia senza colpe e di quali siano gli obiettivi.
 
 Capire quando è il caso di fare un post mortem è forse più semplice. Il _danno_ è già stato fatto.
 Invece il pre-mortem serve proprio ad evitare il danno, a prevenire degli errori, immaginare il futuro e trovare la strada migliore.
@@ -28,7 +28,7 @@ Riunire tutti in una stanza e pensare a cosa può andare storto, pensare a tutti
 
 Bisogna poi tenere conto il bagaglio del _team_. Che sia un _team_ appena nato o che abbiano già lavorato insieme, ognuno porterà a questa riunione il suo carico di esperienza. Questo renderà la _meeting_ ricca e fruttuosa.
 
-Suona un po’ come un [post mortem](https://giodi.dev/un-post-mortem-senza-colpe/) al contrario, non trovate?
+Suona un po’ come un [post mortem](../un-post-mortem-senza-colpe/) al contrario, non trovate?
 
 ## Organizzare il _pre-mortem_
 Come dicevo, agevolare un pre-mortem richiede parecchio **tempo**: di preparazione, della riunione in se, ma anche di lavoro post evento per trarre le conclusioni e lavorare sulle azioni da fare, o _action points_, trovati insieme al _team_. 

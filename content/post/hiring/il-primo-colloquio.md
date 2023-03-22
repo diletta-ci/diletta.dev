@@ -5,7 +5,7 @@ description: "Il primo colloquio è fondamentale tanto per il candidato quanto p
 tags: ["hiring"]
 ---
 
-Come Engineering Manager dovrai fare fronte anche a colloqui ed assunzioni ricoprendo il ruolo di Hiring manager (se vuoi sapere di più su questa figura ne ho parlato [qui](https://giodi.dev/hiring-manager)).
+Come Engineering Manager dovrai fare fronte anche a colloqui ed assunzioni ricoprendo il ruolo di Hiring manager (se vuoi sapere di più su questa figura ne ho parlato [qui](../hiring-manager)).
 
 Il primo colloquio è fondamentale, ci permette di effettuare il primo filtro sui candidati e, al tempo stesso, attirare talenti. 
 Nell’industria del software, finora abbiamo vissuto la possibilità di scegliere la migliore offerta. 

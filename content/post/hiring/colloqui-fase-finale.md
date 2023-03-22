@@ -5,7 +5,7 @@ date: 2022-12-24
 tags: ["hiring"]
 ---
 
-In precedenti articoli ho introdotto [la figura di un Hiring Manager](https://giodi.dev/hiring-manager/), ho parlato di come prepararsi per il [primo colloquio](https://giodi.dev/il-primo-colloquio/) e di come organizzare [la prova tecnica](https://giodi.dev/la-prova-tecnica/). 
+In precedenti articoli ho introdotto [la figura di un Hiring Manager](../hiring-manager/), ho parlato di come prepararsi per il [primo colloquio](../il-primo-colloquio/) e di come organizzare [la prova tecnica](../la-prova-tecnica/). 
 
 Se un candidato passa positivamente tutte queste fasi precedenti, e possibili altre, è arrivato il momento di capire se avanzare con l’offerta e invitare a bordo il futuro collega.
 
@@ -61,7 +61,7 @@ Quando chiediamo di alzare il pollici, di fatto stiamo trasmettendo un senso di 
 
 Stiamo di fatto firmando un accordo, una speranza che questo processo, che finirà una volta passato il periodo di prova, andrà bene.
 
-Se qualcosa andrà storto, sarà responsabilità di tutti i partecipanti del processo. Così che tutti risponderemo dell’errore commesso e impareremo da esso, magari in un [post mortem](https://giodi.dev/un-post-mortem-senza-colpe/), perché no!
+Se qualcosa andrà storto, sarà responsabilità di tutti i partecipanti del processo. Così che tutti risponderemo dell’errore commesso e impareremo da esso, magari in un [post mortem](../un-post-mortem-senza-colpe/), perché no!
 
 - - - -
 Ed ecco che siamo arrivati alla fine di questo lungo processo di colloqui.

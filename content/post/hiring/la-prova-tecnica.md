@@ -4,7 +4,7 @@ date: 2022-10-24
 description: "Come e perché valutare un candidato a livello tecnico? Cosa ci aspettiamo? Quali sono le parti fondamentali da tenere conto?"
 tags: ["hiring"]
 ---
-Passato il primo screening, di cui ho parlato in [un articolo precedente](https://giodi.dev/il-primo-colloquio), è il momento di capire se le capacità, o _skills_, tecniche del candidato/a sono per valide per la posizione aperta.
+Passato il primo screening, di cui ho parlato in [un articolo precedente](../il-primo-colloquio), è il momento di capire se le capacità, o _skills_, tecniche del candidato/a sono per valide per la posizione aperta.
 
 ## Un passaggio obbligato, la prova tecnica
 
