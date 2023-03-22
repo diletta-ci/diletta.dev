@@ -30,7 +30,7 @@ Buona lettura!
 ## Lista dei libri letti nel 2022
 - - - -
 - **Cloud money, _Brett Scott_:** Se volete scoprire como funzionano i soldi dietro le quinte, questo libro fa per voi. `economia`
-- **Leaders eat last, _Simon Sinek_:** Simon é un mentore e una fonte di saggezza quando si tratta di leadership e di capire le persone. Sto scrivendo la recensione di questo libro, lasceró presto il link qui. `leadership`
+- **Leaders eat last, _Simon Sinek_:** Simon é un mentore e una fonte di saggezza quando si tratta di leadership e di capire le persone. Una recensione più estasa la trovate [qui](../recensione-libro-leaders-eat-last/) `leadership`
 - **Fascismo eterno, _Umberto Eco_:** a volte ci puó sembrare lontano, ma purtroppo è piú che mai attuale. `storico, filosofia`
 - **Sin noticias de Gurb, _Eduardo Mendoza_:** se conosci Barcellona, questo strano alieno e il modo di vedere il mondo ti piaceranno. `narrativa`
 - **Sapiens, Vol 2, _Yuval Noah Harari_:** secondo volume a fumetto. La prima parte aveva concetti piú trasformatori, ma per completezza é giusto finirlo. `filosofia, fumetto`
