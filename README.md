@@ -1,7 +1,7 @@
-# Giodi | Diletta website
-This is my website and blog.
+# diletta.dev personal website
+This is my personal website and blog.
 
-You can visit it on [giodi.dev](https://giodi.dev).
+You can visit it on [diletta.dev](https://diletta.dev).
 
 I write about Software Engineering Managers' best practices and personal experiences.
 
