@@ -1,19 +1,19 @@
-baseurl = "https://giodi.dev/"
-title = "Giodi website"
+baseurl = "https://diletta.dev/"
+title = "Diletta"
 theme = "PaperMod"
 defaultContentLanguage = "it"
 
 [Params]
     mainSections = ["post"]
     intro = true
-    title = "Giodi website"
-    author = "Diletta Calà Impirotta | Giodi"
-    headline = "Giodi - Diletta Calà Impirotta website"
-    description = "Blog italiano sull'industria del software"
-    keywords = ["Blog", "Software Engineering Manager"]
-    github = "https://github.com/giodi-ci"
-    twitter = "https://twitter.com/GioDi_CI"
-    email = "giodidev@gmail.com"
+    title = "Diletta"
+    author = "Diletta Calà Impirotta"
+    headline = "Diletta Calà Impirotta personal website"
+    description = "Personal website and italian Blog about software engineering management"
+    keywords = ["Curriculum", "Blog", "Software Engineering Manager"]
+    github = "https://github.com/diletta-ci"
+    twitter = "https://twitter.com/DilettaCi"
+    email = "g.calaimpirotta@gmail.com"
     opengraph = true
     shareTwitter = true
     DateFormat = "January 2, 2006"
