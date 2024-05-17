@@ -1,6 +1,6 @@
 baseurl = "https://diletta.dev/"
 title = "Diletta"
-theme = "PaperMod"
+theme = "candor"
 defaultContentLanguage = "it"
 
 [Params]

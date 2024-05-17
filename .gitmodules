@@ -1,0 +1,3 @@
+[submodule "themes/candor-hugo-theme"]
+	path = themes/candor-hugo-theme
+	url = https://github.com/diletta-ci/candor-hugo-theme.git
