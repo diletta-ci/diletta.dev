@@ -17,7 +17,8 @@ defaultContentLanguage = "it"
     opengraph = true
     shareTwitter = true
     DateFormat = "January 2, 2006"
-    defaultTheme = "dark"
+    defaultTheme = "light"
+    disableThemeToggle = true
     
     ShowToc = true
     TocOpen = false
